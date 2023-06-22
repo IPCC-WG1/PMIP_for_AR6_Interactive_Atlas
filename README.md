@@ -9,7 +9,7 @@ There are four directories in the repositories that each contain different kind 
 * Chris Brierley: University College London ([c.brierley@ucl.ac.uk](mailto:c.brierley@ucl.ac.uk))
 * Anni Zhao: University College London
 
-_Please also refer to [Zhao et al (2020)](https://doi.org/10.5194/gmd-15-2475-2022), which describes the process that has been followed to collate the data provided in this repository_
+_Please also refer to [Zhao et al (2022)](https://doi.org/10.5194/gmd-15-2475-2022), which describes the process that has been followed to collate the data provided in this repository_
 
 ## Figures
 There are 2 subdirectories containing the code and data used to create two panels for Chapter 3. They each also have their own repositories under the IPCC WGI organisation. You can access those repositories at [Chapter-3_Fig02](https://github.com/IPCC-WG1/Chapter-3_Fig02b) (below left image) and [Chapter-3_Fig11](https://github.com/IPCC-WG1/Chapter-3_Fig11) (below right). Please be aware that some of the titling and legend elements in [Fig 3.11](https://github.com/IPCC-WG1/Chapter-3_Fig11) were manually edited in Inkscape to improve to provide better visuals. 
