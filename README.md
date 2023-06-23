@@ -31,4 +31,4 @@ Calendar adjustment has been applied to the monthly data to correct for the diff
 - `ensemble_differences` sub-directory contains just the ensemble-averaged anomalies for each experiment. All the anomalies have been computed on a model's native grid first, before being regridded to a common 1° by 1° grid. This distinction can be minor for temperature changes, but may be important for rainfall percentage changes.
 
 ## Scripts
-This directory contains the scripts that have been written to create the netcdfs described above. They are provided for completeness sake, and may be of little use as they refer to file locations on an underlying curated ESGF replica as described by [Zhao et al (2020)](https://doi.org/10.5194/gmd-15-2475-2022).
+This directory contains the scripts that have been written to create the netcdfs described above. They are provided for completeness sake, and may be of little use as they refer to file locations on an underlying curated ESGF replica as described by [Zhao et al (2022)](https://doi.org/10.5194/gmd-15-2475-2022).
